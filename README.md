@@ -6,6 +6,8 @@ Utility to serialize and deserialize ProperANN model files.
 ```js
 const ProperANNSerializer = require('proper-ann-serializer');
 
+// ...
+
 (async () => {
   let annSerializer = new ProperANNSerializer();
 

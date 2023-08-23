@@ -1,6 +1,6 @@
 {
   "name": "proper-ann-serializer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to serialize and deserialize ProperANN model files.",
   "main": "index.js",
   "scripts": {
